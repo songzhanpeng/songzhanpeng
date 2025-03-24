@@ -6,7 +6,7 @@
 - 🌱 正在研究 **YApi 接口转换工具**
 - 💡 业余时间关注 **前端工程化**
 - 💬 欢迎交流技术话题！
-- 📫 你可以通过 [GitHub](https://github.com/songzhanpeng) 联系我。
+- 📫 你可以通过 [掘金](https://juejin.cn/user/660171938858295) 联系我。
 
 ---
-⭐️ From [songzhanpeng](https://github.com/songzhanpeng)
+⭐️ From [songzhanpeng](https://juejin.cn/user/660171938858295)
